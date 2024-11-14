@@ -1,6 +1,7 @@
 # cpp-module03
 
 继承的派生类只能访问protected和public的基类成员变量
+
 A derived class can only access the protected and public member variables of the base class.
 
 **虚函数 Virtual Functions**
